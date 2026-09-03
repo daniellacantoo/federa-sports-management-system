@@ -6,9 +6,9 @@ The system was originally commissioned in response to the operational needs of a
 
 > **Note:** The full source code is maintained in a private repository. This public repository documents the project's architecture, database design, development process, and product functionality without exposing proprietary code, credentials, or sensitive information.
 
-![Federation Administrator Dashboard](assets/screenshots/federation-dashboard.png)
-
 > **Portfolio data notice:** Screenshots were captured from a staging environment using fictional test data. Names, contact information, athlete records, association records, and other personal or operational data shown in the interface are fictional and were created exclusively for development and testing. Client-identifying branding has been removed or anonymized for this public portfolio.
+
+![Federation Administrator Dashboard](assets/screenshots/federation-dashboard.png)
 
 ---
 
